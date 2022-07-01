@@ -8,4 +8,4 @@
   - [HackChat](https://hack.chat/)
   - [CrosstChat十字街](https://crosst.chat/)
   - [TChat](https://chat.thz.cool/)
-  - [ee的个人主页](https://paperee.tk/)
+  - [纸片君ee的个人主页](https://paperee.tk/)
