@@ -10,4 +10,4 @@
   - [TChat](https://chat.thz.cool/)
   - [纸片君ee的个人主页](https://paperee.tk/)
   - [朽木自雕的网页](https://dh.ccox.cn/)
-  - [HiyoTeam留言板](note.ms/hiyoteam)
+  - [HiyoTeam留言板](https://note.ms/hiyoteam)
